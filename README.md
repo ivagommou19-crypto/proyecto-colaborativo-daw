@@ -1,0 +1,3 @@
+.gitignore
+.txt
+# Readme para archivos locales
